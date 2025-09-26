@@ -1,0 +1,4 @@
+title=Vidéo: Quand l'IA révolutionne le train ft. Jean-Pierre Farandou PDG SNCF & Sonia Vanier au Saclay Summit
+date=2025-13-02
+picture=tech/2025-13-02-paris-saclay/image.webp
+page=https://www.youtube.com/live/ggV2zMfFqoE?si=aw3O4y7_izjOfLHk&t=8874

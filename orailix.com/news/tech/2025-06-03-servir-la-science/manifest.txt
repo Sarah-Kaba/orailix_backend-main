@@ -1,0 +1,4 @@
+title=Servir la science - Fondation de l’École polytechnique
+date=2025-13-02
+picture=tech/2025-06-03-servir-la-science/image.webp
+page=https://youtu.be/SB0ElZddrmk?si=GTZCB8H4nXA8X8_d

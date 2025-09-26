@@ -1,0 +1,4 @@
+title=Station F - Vers une IA Responsable et de Confiance : Approches Hybrides pour la Fiabilité, la Frugalité et la Robustesse
+date=2025-19-03
+picture=talks/2025-19-03-station-F/image.webp
+page=https://community.ima-dt.org/dims-2025/session/fcc1006a-20be-ef11-88cf-6045bd903ca2/vers-une-ia-responsable-et-de-confiance-approches-hybrides-pour-la-fiabilite-la-frugalite-et-la-robustesse

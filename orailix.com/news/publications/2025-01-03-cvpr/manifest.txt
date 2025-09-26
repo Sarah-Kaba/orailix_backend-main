@@ -1,0 +1,4 @@
+title=PACT: Pruning and Clustering-Based Token Reduction for Faster Visual Language Models" has been accepted at CVPR 2025.
+date=2025-07-03
+picture=publications/logo_full-400.webp
+page=https://arxiv.org/abs/2504.08966

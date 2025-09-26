@@ -1,0 +1,4 @@
+title=Elie Bursztein Google and DeepMind Cybersecurity Technical & Research Lead Seminar
+date=2024-09-10
+picture=talks/2024-10-09-elie-bursztein/elie_bursztein_lix.webp
+page=talks/2024-10-09-elie-bursztein/index.html

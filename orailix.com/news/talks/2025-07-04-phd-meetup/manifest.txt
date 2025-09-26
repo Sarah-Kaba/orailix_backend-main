@@ -1,0 +1,4 @@
+title=Orailix seminar for prospective PhD students
+date=2025-07-04
+picture=talks/2025-07-04-phd-meetup/image.webp
+page=talks/2025-07-04-phd-meetup/index.html

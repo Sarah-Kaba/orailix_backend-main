@@ -1,0 +1,4 @@
+title=Les étudiants de Polytechnique en vedette au Datathon groupe SNCF
+date=2025-10-04
+picture=tech/2025-10-04-datathon-sncf/image.webp
+page=tech/2025-10-04-datathon-sncf/index.html

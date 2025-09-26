@@ -1,0 +1,4 @@
+title=PACT:Pruning and Clustering-Based Token Reduction for Faster Visual Language Models - Article accepted at CVPR 2025
+date=2025-05-05
+picture=publications/2025-05-05-dhouib/image.webp
+page=publications/2025-05-05-dhouib/index.html

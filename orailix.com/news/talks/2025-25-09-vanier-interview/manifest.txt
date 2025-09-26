@@ -1,0 +1,4 @@
+title=Les chaires au service de la recherche de la recherche et de l'innovation
+date=2025-25-09
+picture=talks/2025-25-09-vanier-interview/image.webp
+page=talks/2025-25-09-vanier-interview/index.html

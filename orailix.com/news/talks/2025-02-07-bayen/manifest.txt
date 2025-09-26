@@ -1,0 +1,4 @@
+title=ORAILIX Hosts Professor Alexandre Bayen from UC Berkeley
+date=2025-02-07
+picture=talks/2025-02-07-bayen/image.webp
+page=talks/2025-02-07-bayen/index.html

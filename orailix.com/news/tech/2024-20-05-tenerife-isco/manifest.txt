@@ -1,0 +1,4 @@
+title=ISCO 2024 Summer School Tenerife
+date=2024-20-05
+picture=tech/2024-20-05-tenerife-isco/image.webp
+page=tech/2024-20-05-tenerife-isco/index.html

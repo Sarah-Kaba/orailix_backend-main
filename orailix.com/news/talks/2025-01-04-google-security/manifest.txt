@@ -1,0 +1,4 @@
+title=ORAILIX attends the PETs Summit at the Google Paris office
+date=2025-01-04
+picture=talks/2025-01-04-google-security/image.webp
+page=talks/2025-01-04-google-security/index.html

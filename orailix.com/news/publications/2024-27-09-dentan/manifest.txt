@@ -1,0 +1,4 @@
+title=Predicting memorization within Large Language Models fine-tuned for classification
+date=2025-15-07
+picture=publications/2024-27-09-dentan/image.webp
+page=https://arxiv.org/abs/2409.18858

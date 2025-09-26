@@ -1,0 +1,4 @@
+title=Alex Combessi Co-founder & Co-CEO, Giskard
+date=2024-05-12
+picture=talks/2024-05-12-alex-combessie/giskard_turtle.webp
+page=talks/2024-05-12-alex-combessie/index.html

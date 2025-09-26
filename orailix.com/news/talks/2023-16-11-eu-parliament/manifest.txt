@@ -1,0 +1,4 @@
+title=Conférence "AIvolution" au Parlement Européen
+date=2023-16-11
+picture=talks/2023-16-11-eu-parliament/image.webp
+page=https://portail.polytechnique.edu/chaire_xcredit_agricole/actualites/conference-aivolution-au-parlement-europeen

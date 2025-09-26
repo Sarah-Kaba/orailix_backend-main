@@ -1,0 +1,15 @@
+[package]
+name = "orailix_backend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gotham = "0.6.0"
+markup = "0.12.5"
+mime = "0.3.16"
+clap = "2.33.3"
+futures-util = "0.3.14"
+serde = { version = "1.0", features = ["derive"] }
+time = { version = "0.3.0", features = ["formatting", "local-offset"] }
+gotham_derive = "0.7.0"
+chrono = "0.4.19"

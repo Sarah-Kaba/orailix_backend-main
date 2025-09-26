@@ -1,0 +1,4 @@
+title=AI and Optimization for Mobilities Chair Inauguration
+date=2024-24-09
+picture=tech/2024-24-09-sncf_chaire/polytechnique_sncf_chaire.jpg
+page=https://www.polytechnique.edu/en/press-room/press-releases/sncf-group-and-ecole-polytechnique-create-chair-artificial-intelligence-and-optimisation-mobility

@@ -1,0 +1,4 @@
+title=A new research : Predicting memorization within Large Language Models fine-tuned for classification
+date=2025-16-07
+picture=publications/2025-16-07-new-paper-accepted-at-ECAI/image.webp
+page=publications/2025-16-07-new-paper-accepted-at-ECAI/index.html

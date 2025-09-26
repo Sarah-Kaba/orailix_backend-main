@@ -1,0 +1,4 @@
+title=VivaTech 2025: ORAILIX présente ses avancées en intelligence artificielle
+date=2025-16-06
+picture=tech/2025-16-06-vivatech/image.webp
+page=tech/2025-16-06-vivatech/index.html

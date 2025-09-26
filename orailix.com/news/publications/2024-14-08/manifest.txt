@@ -1,0 +1,4 @@
+title=Reconstructing training data from document understanding models
+date=2024-14-08
+picture=publications/logo_full-400.webp
+page=https://www.usenix.org/conference/usenixsecurity24/presentation/dentan

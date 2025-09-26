@@ -1,0 +1,4 @@
+title=Uncertainty Quantification as a Complementary Latent Health Indicator for Remaining Useful Life Prediction on Turbofan Engines accepted at MIMAR 2025 for presentation.
+date=2025-08-07
+picture=publications/2025-08-07-thil/image.webp
+page=https://arxiv.org/abs/2507.06672v1

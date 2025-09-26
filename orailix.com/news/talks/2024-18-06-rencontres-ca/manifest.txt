@@ -1,0 +1,4 @@
+title=Les Rencontres numériques by CA
+date=2024-18-06
+picture=talks/2024-18-06-rencontres-ca/image.webp
+page=https://portail.polytechnique.edu/chaire_xcredit_agricole/actualites/les-rencontres-numeriques-ca

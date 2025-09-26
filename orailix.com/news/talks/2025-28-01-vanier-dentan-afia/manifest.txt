@@ -1,0 +1,4 @@
+title=ORAILIX attends the 9th industrial forum of the French Association for Artificial Intelligence (AFIA)
+date=2025-28-01
+picture=talks/2025-28-01-vanier-dentan-afia/image.webp
+page=talks/2025-28-01-vanier-dentan-afia/index.html

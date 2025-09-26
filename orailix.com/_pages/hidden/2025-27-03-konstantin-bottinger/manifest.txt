@@ -1,0 +1,4 @@
+title=Konstantin Böttinger Visits ORAILIX: Bridging Cybersecurity & AI
+date=2025-28-03
+picture=talks/2025-27-03-konstantin-bottinger/image.webp
+page=talks/2025-27-03-konstantin-bottinger/index.html

@@ -1,0 +1,4 @@
+title=Launch of the Master Trustworthy and Responsible AI (TRAI)
+date=2025-09-07
+picture=tech/2025-09-07-master-msct/image.webp
+page=tech/2025-09-07-master-msct/index.html

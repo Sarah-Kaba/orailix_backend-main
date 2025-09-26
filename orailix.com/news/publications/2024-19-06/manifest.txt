@@ -1,0 +1,4 @@
+title=Coherent Multi-Table Data Synthesis for Tabular and Time-Series Data with GANs
+date=2024-19-06
+picture=publications/logo_full-400.webp
+page=https://dl.acm.org/doi/10.1145/3626232.3653255

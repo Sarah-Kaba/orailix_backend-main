@@ -1,0 +1,4 @@
+title=Winter School on Next Generation AI and Economic Applications welcomes roundtable "Bridging Theory and Applications in Next-Generation AI" - Mohammed VI University
+date=2025-24-02
+picture=tech/2025-24-02-winter-school-mohammed-vi-polytechnic/image.webp
+page=tech/2025-24-02-winter-school-mohammed-vi-polytechnic/index.html

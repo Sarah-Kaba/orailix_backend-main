@@ -1,0 +1,4 @@
+title=Trustworthy and Responsible AI Chair Inauguration
+date=2024-27-03
+picture=tech/2024-27-03-chaire_ia_ca/chaire_ia_ca.jpg
+page=https://www.polytechnique.edu/en/news/inauguration-chair-trustworthy-and-responsible-artificial-intelligence

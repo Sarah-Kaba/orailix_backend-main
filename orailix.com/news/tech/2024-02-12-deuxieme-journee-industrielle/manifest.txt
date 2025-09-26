@@ -1,0 +1,4 @@
+title=Deuxième journée industrielle du LIX
+date=2024-02-12
+picture=tech/2024-02-12-deuxieme-journee-industrielle/image.webp
+page=https://portail.polytechnique.edu/chaire_xcredit_agricole/actualites/deuxieme-journee-industrielle-du-lix

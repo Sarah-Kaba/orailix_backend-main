@@ -1,0 +1,4 @@
+title=I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation accepted at ECML PKDD 2025 for presentation.
+date=2025-14-07
+picture=publications/2025-14-07-thil/image.webp
+page=https://ecmlpkdd.org/2025/accepted-papers-rt/

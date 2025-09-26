@@ -1,0 +1,4 @@
+title=ORAILIX celebrates its first year! Optimizing for another successful epoch
+date=2025-05-09
+picture=tech/2025-05-09-1-year/image.webp
+page=tech/2025-05-09-1-year/index.html

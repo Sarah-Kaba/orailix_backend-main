@@ -1,0 +1,4 @@
+title=Une rencontre inspirante avec les collégiens de Sartrouville
+date=2025-26-06
+picture=talks/2025-26-06-charles-peguy/image.webp
+page=talks/2025-26-06-charles-peguy/index.html

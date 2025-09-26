@@ -1,0 +1,4 @@
+title=Poster Presentation at the Industrial Digital Twins Seminar at Orange Gardens
+date=2025-05-03
+picture=tech/2025-03-05-jni/image.webp
+page=tech/2025-03-05-jni/index.html

@@ -1,0 +1,4 @@
+title=ORAILIX Presents Hybrid AI-OR Approaches at Google
+date=2024-02-10
+picture=tech/2024-02-10-vanier-dentan-google1/google_pipeline1.webp
+page=tech/2024-02-10-vanier-dentan-google1/index.html
